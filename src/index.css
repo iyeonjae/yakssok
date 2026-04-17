@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", serif;
+  
+  --color-yakssok-primary: #5A5A40; /* Olive Dark */
+  --color-yakssok-secondary: #8E8E70; /* Olive Light */
+  --color-yakssok-accent: #D4E2D4; /* Accent Green */
+  --color-yakssok-highlight: #7FB069; /* Highlight Green */
+  --color-yakssok-warm: #f5f5f0; /* Warm BG */
+  --color-yakssok-text: #2C2C26;
+  --color-yakssok-muted: #7A7A70;
+}
+
+@layer base {
+  body {
+    @apply bg-yakssok-warm text-yakssok-text antialiased font-sans;
+  }
+}

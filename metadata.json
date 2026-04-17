@@ -1,0 +1,6 @@
+{
+  "name": "Yakssok (약속잡기)",
+  "description": "그룹 일정 조율 올인원 서비스. 방을 만들고 친구들과 가능한 날짜를 겹쳐보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
