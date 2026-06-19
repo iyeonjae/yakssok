@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/0dfb2445-e5f6-4dc6-bb3c-329c350ee3a5
 
+🔗 **배포 주소:** https://yakssok.vercel.app
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
